@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+neo4j
+pyjwt
+passlib[bcrypt]
+passlib[bcrypt]
+python-jose[cryptography]
+email-validator

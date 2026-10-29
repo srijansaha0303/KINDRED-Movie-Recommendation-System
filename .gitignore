@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+**/node_modules/
+**/.venv/
+**/venv/
+**/__pycache__/
+**/dist/
+**/build/
+*.pyc
+
+# Large MovieLens datasets - keep locally
+backend/data/movielens/genome_scores.csv
+backend/data/movielens/rating.csv
